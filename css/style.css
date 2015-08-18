@@ -580,7 +580,7 @@ div#top {
   color:#4FC242;
   font-size: 1.5em;
   margin: 1em 5em 0 0;
-  text-align: right;
+  text-align: left;
   font-family: 'Exo2-Medium';
 }
 /*--//testmonial--*/
@@ -930,7 +930,7 @@ button#showRightPush {
   min-height: 460px;
 }
 .testi h4 {
-  font-size: 1.8em;
+  font-size: 1.0em;
   margin: 0em 1em 0 0;
 }
 .testi h3 {
@@ -1040,7 +1040,7 @@ button#showRightPush img{
   font-size: 0.85em;
 }
 .testi h4 {
-  font-size: 1.5em;
+  font-size: 1.0em;
   margin: 1em 1em 0 0;
 }
 .callbacks_tabs {
