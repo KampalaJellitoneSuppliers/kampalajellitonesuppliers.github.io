@@ -218,7 +218,7 @@ nav#cbp-spmenu-s2 h3 {
 .about-info{
   margin-top:3em;
 }
-.about-left{
+.about-left h4{
   color:#4FC242;
   font-size:1.6em;
   margin-top:1em;
@@ -578,9 +578,9 @@ div#top {
 }
 .testi h4 {
   color:#4FC242;
-  font-size: 0.5em;
+  font-size: 2.5em;
   margin: 1em 5em 0 0;
-  text-align: left;
+  text-align: right;
   font-family: 'Exo2-Medium';
 }
 /*--//testmonial--*/
