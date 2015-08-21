@@ -54,7 +54,7 @@ body{
   font-size:1.8em;
 }
 .banner-info h2 span{
-  font-family: 'Exo2-Medium';
+  font-family: 'Arial';
   font-size:2em;
   color:#4FC242;
 }
@@ -91,10 +91,10 @@ body{
   text-decoration:none;
   color:#C76994;
   font-size:1.2em;
-  font-family: 'Exo2-Bold';
+  font-family: 'Arial';
 }
 .logo h1 a span{
-  font-family: 'Exo2-Medium';
+  font-family: 'Arial';
   font-size:1.2em;
   color:#4FC242;
 }
@@ -180,7 +180,7 @@ nav#cbp-spmenu-s2 a {
   display: block;
   padding: 20px 25px;
   font-size: 15px;
-  font-family: 'Exo2-Medium';
+  font-family: 'Arial';
   font-weight: 400;
   border: none;
   margin: 0;
@@ -212,7 +212,7 @@ nav#cbp-spmenu-s2 h3 {
 .about h3,.gallery h3,.blog h3,.contact h3{
   font-size: 2.8em;
   color:#855E42;
-  font-family: 'Exo2-Bold';
+  font-family: 'Arial';
   text-align:center;
 }
 .about-info{
@@ -222,7 +222,7 @@ nav#cbp-spmenu-s2 h3 {
   color:#4FC242;
   font-size:1.6em;
   margin-top:1em;
-  font-family: 'Exo2-Medium';
+  font-family: 'Arial';
 }
 .about-left p{
   color:#999;
@@ -269,7 +269,7 @@ background-position: -235px -84px;
   font-size: 1.5em;
   font-weight: 400;
   margin: 0.45em 0 0.5em 0;
-  font-family: 'Exo2-Medium';
+  font-family: 'Arial';
 }
 .top-grids p {
   color: #999;
@@ -566,7 +566,7 @@ div#top {
 .testi h3{
   font-size: 2.5em;
   color: #fff;
-  font-family: 'Exo2-Bold';
+  font-family: 'Arial';
   text-align:center;
 }
 .testi p {
@@ -581,7 +581,7 @@ div#top {
   font-size: 1.2em;
   margin: 1em 5em 0 0;
   text-align: center;
-  font-family: 'Exo2-Medium';
+  font-family: 'Arial';
 }
 /*--//testmonial--*/
 .blog{
@@ -596,7 +596,7 @@ div#top {
 .blog1 h4 a{
   color:#333;
   font-size:1.25em;
-  font-family: 'Exo2-Medium';
+  font-family: 'Arial';
   margin:1.5em 0 0.5em 0;
   display:inline-block;
   text-decoration:none;
@@ -691,7 +691,7 @@ div#top {
 .contact-top-one h4 {
   font-size: 1.4em;
   color: #1f1e23;
-font-family: 'Exo2-Medium';
+font-family: 'Arial';
   font-weight:400;
   margin: 0;
   text-align: left;
@@ -730,12 +730,12 @@ font-family: 'Exo2-Medium';
   text-decoration:none;
   color:#A68064;
   font-size:1.2em;
-  font-family: 'Exo2-Bold';
+  font-family: 'Arial';
   margin-bottom:0.5em;
   display:inline-block;
 }
 .footer h3 a span{
-  font-family: 'Exo2-Medium';
+  font-family: 'Arial';
   font-size:1.2em;
   color:#4FC242;
 }
