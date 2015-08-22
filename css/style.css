@@ -211,6 +211,7 @@ nav#cbp-spmenu-s2 h3 {
 }
 .about h3,.gallery h3,.blog h3,.contact h3{
   font-size: 2.8em;
+  font-weight: bold;
   color:#855E42;
   font-family: 'Arial';
   text-align:center;
