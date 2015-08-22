@@ -277,10 +277,10 @@ background-position: -235px -84px;
   line-height: 1.8em;
 }
 
-.top-grids span.dropt {background: #ffeedd;}
+.top-grids span.dropt {background: #ffffff;}
   span.dropt:hover {text-decoration: none; background: #ffffff; z-index: 6; }
   span.dropt span {position: absolute; left: -9999px;
-    margin: 20px 0 0 0px; padding: 3px 3px 3px 3px;
+    margin: 20px 0 0 0px; padding: 10px 10px 10px 10px;
     border-style:solid; border-color:#ffffff; border-width:1px; z-index: 6;}
   span.dropt:hover span {left: 2%; background: #ffffff;} 
   span.dropt span {position: absolute; left: -9999px;
