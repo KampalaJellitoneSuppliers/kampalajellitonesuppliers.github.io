@@ -166,6 +166,17 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</dialog>  
 						<button id="show">More..</button>  
 				 	 </div>
+				 	 <script>
+			 		$(function() {  
+    							var dialog = document.getElementById('window');  
+   								document.getElementById('show').onclick = function() {  
+        						dialog.show();  
+    							};  
+    							document.getElementById('exit').onclick = function() {  
+        						dialog.close();  
+   	 							};  
+								})();  
+			 		</script>
 				 	 <div class="col-md-4 top-grids">
 				 	 	<center><img src="images/charlotte.png" width="150px" height "300px" class="img-responsive" alt=""/></center>
 				 	 	<br>
