@@ -64,8 +64,13 @@ body{
 }
 .banner-info h2 span{
   font-family: 'Arial';
-  font-size:2em;
+  font-size:1.5em;
   color:#4FC242;
+}
+.banner-info td{
+  font-family: 'Arial';
+  font-size:1.5em;
+  color:#855E42;
 }
 .banner-info p{
   font-size:1.1em;
