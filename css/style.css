@@ -238,6 +238,16 @@ nav#cbp-spmenu-s2 h3 {
 .about-info{
   margin-top:3em;
 }
+.about th{
+  font-family: 'Arial';
+  font-size:1.2em;
+  color:#808080;
+}
+.about td{
+  font-family: 'Arial';
+  font-size:1.2em;
+  color:#999;
+}
 .about-left h4 {
   color:#4FC242;
   font-size:1.6em;
