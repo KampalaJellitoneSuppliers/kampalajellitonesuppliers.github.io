@@ -72,6 +72,11 @@ body{
   font-size:1.5em;
   color:#855E42;
 }
+.banner-info a{
+  font-family: 'Arial';
+  font-size:1.5em;
+  color:#855E42;
+}
 .banner-info p{
   font-size:1.1em;
   margin:1em 0 2em 0;
